@@ -13,4 +13,4 @@ Required environment variables:
 
 Used **MySQL** database + **pymysql** driver
 
-Dependencies: all requirements are listed in "requirements.txt"
+Dependencies: all requirements are listed in **requirements.txt**
