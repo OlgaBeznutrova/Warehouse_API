@@ -1,7 +1,5 @@
 # Warehouse API
 
-:white_check_mark: Test task
-
 Start with **__main\__.py**
 
 Required environment variables:
